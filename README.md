@@ -14,3 +14,4 @@ AIGC部分内容沿用之前的项目:[Classic-Generative-Model](https://github.
 ## Hash
 - [经典算法系列-搞懂大规模数据近邻算法LSH算法原理](https://zhuanlan.zhihu.com/p/581008101)
 - [Iterative Quantization: A Procrustean Approach to Learning Binary Codes 论文理解及代码讲解](https://blog.csdn.net/liuheng0111/article/details/52242491)
+- [Deep哈希算法介绍](https://zhuanlan.zhihu.com/p/21396173)
