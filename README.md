@@ -3,6 +3,7 @@
 
 # LLMs
 - [图解大模型RLHF系列之：人人都能看懂的PPO原理与源码解读](https://zhuanlan.zhihu.com/p/677607581)
+- [一文读懂大模型温度系数](https://zhuanlan.zhihu.com/p/666670367)
 
 # AIGC
 AIGC部分内容沿用之前的项目:[Classic-Generative-Model](https://github.com/liujf69/Classic-Generative-Model)
